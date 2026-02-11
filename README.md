@@ -39,7 +39,7 @@ I am actively developing projects related to AI implementation, system monitorin
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/Zidan-Putra-wikandana/
+LinkedIn: www.linkedin.com/in/zidan-putra-wikandana-97167a2ab
 
 Email: zidanputrawikandana@gmail.com
 <!--
