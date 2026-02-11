@@ -21,7 +21,7 @@ I am actively developing projects related to AI implementation, system monitorin
 * MySQL
 * PyCaret
 * Scikit-learn
-
+  
 **Concepts and Practices**<br>
 * Machine Learning
 * Data Structures and Algorithms
@@ -30,5 +30,17 @@ I am actively developing projects related to AI implementation, system monitorin
 * Object-Oriented Programming
 * Software Development Lifecycle
 
+
+## Current Focus
+* AI Engineering fundamentals
+* Model deployment and integration
+* Clean code and collaborative development practices
+* Backend and frontend integration
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/Zidan-Putra-wikandana/
+
+Email: zidanputrawikandana@gmail.com
 <!--
 **zidanptr555/zidanptr555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
